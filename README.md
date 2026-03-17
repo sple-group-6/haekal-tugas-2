@@ -19,3 +19,11 @@ Check the wiki https://github.com/but4reuse/RobocodeSPL_teaching/wiki
 
 ## How to cite RobocodeSPL and where to read about an experience report?
 Jabier Martinez, Xhevahire Tërnava, Tewfik Ziadi. Software Product Line Extraction from Variability-Rich Systems: The Robocode Case Study, 22nd International Systems and Software Product Line Conference (SPLC), Sept 10-14, Gothenburg, Sweden, 2018
+
+# Added Robot Variation
+
+## XROBOT_01.xml
+![XROBOT_01_Configuration](./assets/XROBOT_01.png)
+
+## XROBOT_02.xml
+![XROBOT_02_Configuration](./assets/XROBOT_02.png)
